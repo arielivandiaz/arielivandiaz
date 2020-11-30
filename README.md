@@ -1,5 +1,12 @@
 ### Hi there 👋
 
+
+
+[![Ariel's github stats](https://github-readme-stats.vercel.app/api?username=arielivandiaz&count_private=true&show_icons=true)](https://arielivandiaz.com/)
+
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=arielivandiaz&repo=lagunite)](https://lagunite.com/)
+
+
 <!--
 **arielivandiaz/arielivandiaz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
