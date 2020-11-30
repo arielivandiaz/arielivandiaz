@@ -4,7 +4,7 @@
 
 [![Ariel's github stats](https://github-readme-stats.vercel.app/api?username=arielivandiaz&count_private=true&show_icons=true)](https://arielivandiaz.com/)
 
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=arielivandiaz&repo=lagunite)](https://lagunite.com/)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=arielivandiaz&repo=lagunite)](https://github.com/arielivandiaz/lagunite)
 
 
 <!--
